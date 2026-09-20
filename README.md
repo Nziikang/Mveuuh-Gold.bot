@@ -1,4 +1,4 @@
-![Mveuhh Gold Bot Legal](IMG-20260920-WA0040.jpg)
+
 
 # Mveuuh Gold Bot - XAUUSD
 
@@ -28,4 +28,4 @@ GitHub: @Nziikang
 Usage personnel. Revente interdite.
 
 ### 📈 Preuve Live - Resultat
-![Preuve Profit](IMG-20260920-WA0040.jpg)
+   ![Preuve Profit](proof.jpg)
