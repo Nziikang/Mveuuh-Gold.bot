@@ -27,3 +27,8 @@ GitHub: @Nziikang
 
 ### Licence
 Usage personnel. Revente interdite.
+
+
+### 📈 Preuve Live - Résultat
+
+![Preuve Profit](IMG-20250920-WA0040.jpg)
