@@ -1,34 +1,31 @@
-
-![Mveuuh Gold Bot Logo](IMG-20260920-WA9815.jpg)
+![Mveuhh Gold Bot Legal](IMG-20260920-WA0040.jpg)
 
 # Mveuuh Gold Bot - XAUUSD
 
-> **Disclaimer :** Ce bot ne garantit pas des profits à vie. Le trading comporte des risques. Tradez de manière responsable.
+> **Disclaimer** Ce bot ne garantit pas des profits à vie. Le trading comporte des risques. Tradez de manière responsable.
 
-### À propos
-EA automatique développé par **Nziikang** pour le marché de l'OR (XAUUSD).
-Objectif : Stabilité sur le long terme, pas de gains rapides.
+## A propos
+EA automatique developpe par **Nziikang** pour le marche de l'OR (XAUUSD).
+Objectif : Stabilite sur le long terme, pas de gains rapides.
 
-### Caractéristiques
-- **Symbole :** XAUUSD (Gold)
-- **Timeframe :** M15
-- **Plateforme :** MT4 (.mq4) / MT5 (.mq5)
-- **Stratégie :** Entrées filtrées + Gestion de risque intelligente
+## Caracteristiques
+- **Symbole** : XAUUSD (Gold)
+- **Timeframe** : M15
+- **Plateforme** : MT4 (.mq4) / MT5 (.mq5)
+- **Strategie** : Entrees filtrees + Gestion de risque intelligente
 - **Pas de martingale agressive**
 
-### Installation
-1. Copier `mveuuh_Gold.mq4` dans `MQL4/Experts/`
-2. Redémarrer MT4
+## Installation
+1. Copier `mveuuh_gold.mq4` dans `MQL4/Experts/`
+2. Redemarrer MT4
 3. Glisser sur le graphique XAUUSD M15
 
-### Auteur
-Nziikang - Yaoundé, Cameroun
+## Auteur
+Nziikang - Yaounde, Cameroun
 GitHub: @Nziikang
 
-### Licence
+## Licence
 Usage personnel. Revente interdite.
 
-
-### 📈 Preuve Live - Résultat
-
-![Preuve Profit](IMG-20250920-WA0040.jpg)
+### 📈 Preuve Live - Resultat
+![Preuve Profit](IMG-20260920-WA0040.jpg)
