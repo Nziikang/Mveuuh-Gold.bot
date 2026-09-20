@@ -1,3 +1,6 @@
+
+![Mveuuh Gold Bot Logo](IMG-20260920-WA9815.jpg)
+
 # Mveuuh Gold Bot - XAUUSD
 
 > **Disclaimer :** Ce bot ne garantit pas des profits à vie. Le trading comporte des risques. Tradez de manière responsable.
