@@ -1,24 +1,20 @@
+![Mveuuh Gold Bot](logo.png)
+
 # Bot Mveuuh Gold - XAUUSD
 
-> Avis de non-responsabilite : Ce bot ne garantit pas des benefices a vie. Le trading comporte des risques. Tradez de maniere responsable.
+> Disclaimer: Le trading comporte des risques. Pas de profit garanti a vie.
 
-## A propos de
-EA automatiquement developpe par Nziikang pour le marche de l'OR (XAUUSD). Objectif : Stabilite sur le long terme, pas de gains rapides.
+## Preuve Live Verifiee - Myfxbook
+![Profit Proof](proof.jpg)
+
+## A propos
+EA automatique par Nziikang pour XAUUSD. Stabilite long terme.
 
 ## Caracteristiques
-- Symbole : XAUUSD (Or)
-- Periode : M15
-- Plateforme : MT4 (.mq4) / MT5 (.mq5)
-- Strategie : Entrees filtrees + Gestion de risque intelligente
-- Pas de martingale agressive
-
-## Installation
-1. Copier mveuuh_gold.mq4 dans MQL4/Experts/
-2. Redemarrer MT4
-3. Glisser sur le graphique XAUUSD M15
+- Symbole: XAUUSD
+- Timeframe: M15
+- MT4 / MT5
+- Sans martingale agressive
 
 ## Auteur
-Nziikang - Yaounde, Cameroun | GitHub : @Nziikang
-
-## Licence
-Usage personnel. Revente interdite.
+Nziikang - Yaounde, Cameroun
