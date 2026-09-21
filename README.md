@@ -1,11 +1,12 @@
-![Mveuuh Gold Bot](logo.png)
+![Mveuuh Gold Bot](IMG-20260920-WA9815.jpg)
 
 # Bot Mveuuh Gold - XAUUSD
 
 > Disclaimer: Le trading comporte des risques. Pas de profit garanti a vie.
 
-## Preuve Live Verifiee - Myfxbook
-![Profit Proof](proof.jpg)
+## Preuve Live Verifiee
+
+![Profit Proof](IMG-20260921-WA8222.jpg)
 
 ## A propos
 EA automatique par Nziikang pour XAUUSD. Stabilite long terme.
