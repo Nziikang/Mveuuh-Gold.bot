@@ -1,6 +1,7 @@
-<img src="MVEUUH-LOGO-AVATAR.jpg" width="180" align="right">
+<img src="MVEUUH-LOGO-AVATAR.jpg" width="200" align="right">
 
 # MVEUUH GOLD AI v3.5 🏆
+
 ### First Cameroonian AI Gold Bot - Built in Yaounde 🇨🇲
 
 > ⚠️ DISCLAIMER: Ce bot ne garantit pas des profits à vie. Le trading comporte des risques.
@@ -14,15 +15,16 @@ EA automatique par Nziikang - Stabilité long terme - Sans martingale agressive.
 - **Stratégie:** AI + Smart Money Concept
 
 ### 🛒 ACHETER MAINTENANT
-**MQL5 Market:** En cours vérification carte bancaire (bientôt 79$)
+**MQL5 Market:** En cours vérification carte bancaire (bientôt disponible - 79$)
 **Paiement direct Cameroun (INSTANTANÉ):**
+
 - MTN MoMo / Orange Money
-- +237 679388740 / +237 686951556
+- +237 679388740
+- +237 686951556
 - **Prix:** 50.000 FCFA
 
 ### 📈 Preuve Live Vérifiée
 
-![Preuve Gains](IMG-20250929-WA0040.jpg)
+![Preuve Live](IMG-20260921-WA7020.jpg)
 
----
 **Nziikang - Yaounde 🇨🇲 | +237 679388740 / 686951556**
