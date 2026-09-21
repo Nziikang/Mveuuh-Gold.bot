@@ -1,4 +1,4 @@
-<img src="https://github.com/Nziikang/Mveuuh-Gold.bot/raw/main/MVEUUH-LOGO-AVATAR.jpg" width="200" align="right">
+<img src="MVEUUH-LOGO-AVATAR.jpg" width="200" align="right">
 
 # MVEUUH GOLD AI v3.5 🏆
 ### First Cameroonian AI Gold Bot - Built in Yaounde 🇨🇲
