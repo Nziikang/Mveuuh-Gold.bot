@@ -100,7 +100,7 @@ input bool   NewsFilterAllCurrencies=false;
 input string Inp09="=== CONFIGURATION MISE A JOUR ===";
 input string CurrentVersion="1.00";
 input string VersionURL="https://raw.githubusercontent.com/Nziikang/Mveuuh-Gold.bot/main/version.txt";
-input string BotDownloadURL="https://raw.githubusercontent.com/Nziikang/Mveuuh-Gold.bot/main/mveuuh_Gold_MT5.ex5";
+input string BotDownloadURL="https://raw.githubusercontent.com/Nziikang/Mveuuh-Gold.bot/main/Mveuuh_Gold_MT5_V4_Basket_BE_50USD.ex5";
 input bool   CheckUpdateOnStart=true;
 
 int      g_dir=0;
